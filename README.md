@@ -5,7 +5,7 @@ Power BI դաշբորդ Հայաստանի 17 առևտրային բանկերի 
 **Հեղինակ՝** Մելանյա Ավետիսյան · Power BI ավարտական նախագիծ, 2026
 
 ## Ֆայլեր
-- `Project_MelanyaAvetisyan.pbix` — Power BI դաշբորդը
+- `Armenian_Banks_Report_By_MelanyaAvetisyan` — Power BI դաշբորդը
 - `Armenian_Banks_Annual_2021-2025.xlsx` — տվյալների աղբյուրը
 
 Դաշբորդը բացելու համար անհրաժեշտ է [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (անվճար)։
